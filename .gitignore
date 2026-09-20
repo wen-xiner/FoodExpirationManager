@@ -1,0 +1,22 @@
+# ===== .NET / Visual Studio 构建产物 =====
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# ===== 运行时数据 =====
+*.db
+FoodExpiration.db
+
+# ===== WorkBuddy 内部记忆（非项目源码） =====
+.workbuddy/
+
+# ===== 本项目的本地审查报告（不纳入仓库） =====
+代码审查报告.md
+
+# ===== OS / 编辑器临时文件 =====
+Thumbs.db
+Desktop.ini
